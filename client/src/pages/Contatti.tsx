@@ -138,7 +138,7 @@ export default function Contatti() {
               <div className="border border-[var(--border)] overflow-hidden">
                 <iframe
                   title="Studio Legale Avv. Giulia Giacinti - Via Tiburtina 203, Frosinone"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2990.5!2d13.3429!3d41.6395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13254e3b7c2a1b1f%3A0x1!2sVia+Tiburtina+203%2C+Frosinone!5e0!3m2!1sit!2sit!4v1"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5560.312430054901!2d13.496570876162771!3d45.828154671082295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477ba70a2e52a059%3A0xd2c38a202f394a28!2sVia%20Raparoni%2C%202%2C%2034077%20Ronchi%20dei%20Legionari%20GO!5e0!3m2!1sit!2sit!4v1773402253499!5m2!1sit!2sit"
                   width="100%"
                   height="220"
                   style={{ border: 0 }}
